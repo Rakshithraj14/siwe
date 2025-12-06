@@ -64,6 +64,6 @@ npm run preview
 - [SIWE Specification (EIP-4361)](https://eips.ethereum.org/EIPS/eip-4361)
 - [SIWE Library](https://github.com/spruceid/siwe)
 
-## License
+---
 
-MIT
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
